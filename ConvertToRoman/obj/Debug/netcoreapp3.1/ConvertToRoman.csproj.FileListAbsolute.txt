@@ -1,0 +1,14 @@
+/Users/sinzi/Projects/ConvertToRoman/ConvertToRoman/bin/Debug/netcoreapp3.1/ConvertToRoman
+/Users/sinzi/Projects/ConvertToRoman/ConvertToRoman/bin/Debug/netcoreapp3.1/ConvertToRoman.deps.json
+/Users/sinzi/Projects/ConvertToRoman/ConvertToRoman/bin/Debug/netcoreapp3.1/ConvertToRoman.runtimeconfig.json
+/Users/sinzi/Projects/ConvertToRoman/ConvertToRoman/bin/Debug/netcoreapp3.1/ConvertToRoman.runtimeconfig.dev.json
+/Users/sinzi/Projects/ConvertToRoman/ConvertToRoman/bin/Debug/netcoreapp3.1/ConvertToRoman.dll
+/Users/sinzi/Projects/ConvertToRoman/ConvertToRoman/bin/Debug/netcoreapp3.1/ConvertToRoman.pdb
+/Users/sinzi/Projects/ConvertToRoman/ConvertToRoman/obj/Debug/netcoreapp3.1/ConvertToRoman.csproj.AssemblyReference.cache
+/Users/sinzi/Projects/ConvertToRoman/ConvertToRoman/obj/Debug/netcoreapp3.1/ConvertToRoman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinzi/Projects/ConvertToRoman/ConvertToRoman/obj/Debug/netcoreapp3.1/ConvertToRoman.AssemblyInfoInputs.cache
+/Users/sinzi/Projects/ConvertToRoman/ConvertToRoman/obj/Debug/netcoreapp3.1/ConvertToRoman.AssemblyInfo.cs
+/Users/sinzi/Projects/ConvertToRoman/ConvertToRoman/obj/Debug/netcoreapp3.1/ConvertToRoman.csproj.CoreCompileInputs.cache
+/Users/sinzi/Projects/ConvertToRoman/ConvertToRoman/obj/Debug/netcoreapp3.1/ConvertToRoman.dll
+/Users/sinzi/Projects/ConvertToRoman/ConvertToRoman/obj/Debug/netcoreapp3.1/ConvertToRoman.pdb
+/Users/sinzi/Projects/ConvertToRoman/ConvertToRoman/obj/Debug/netcoreapp3.1/ConvertToRoman.genruntimeconfig.cache

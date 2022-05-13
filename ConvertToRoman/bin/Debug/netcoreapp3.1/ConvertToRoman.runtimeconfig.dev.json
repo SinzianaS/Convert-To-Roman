@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/sinzi/.dotnet/store/|arch|/|tfm|",
+      "/Users/sinzi/.nuget/packages"
+    ]
+  }
+}
